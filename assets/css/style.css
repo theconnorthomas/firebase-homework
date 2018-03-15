@@ -1,0 +1,29 @@
+body {
+    background-color: #f1f1f1;
+    font-size: 2em;
+}
+
+.jumbotron {
+    background-image: url(../images/Brightline-Train.jpg);
+    background-position: center;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 4em;
+}
+.panel-primary {
+    overflow: auto;
+}
+
+.col-lg-10 {
+    width: 100%;
+}
+
+.col-lg-8 {
+    width: 100%;
+}
+
+button {
+    margin-right: 1.5em;
+}
